@@ -17,7 +17,7 @@ export default function HomePage() {
         GenInfotech
       </Typography>
 
-      <Typography variant="h4" align="center" sx={{ mt: 3, mb: 2, fontWeight: 'bold' ,color:'blue',fontFamily:'Comic Sans'}}>
+      <Typography variant="h3" align="center" sx={{ mt: 3, mb: 2, fontWeight: 'bold' ,color:'blue',fontFamily:'Comic Sans'}}>
         Build Apps. Build Skills. Build the Future.
       </Typography>
 
